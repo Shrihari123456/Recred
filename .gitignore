@@ -1,0 +1,11 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Optional useful ignores
+dist/
+build/
+*.log
+.DS_Store
